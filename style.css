@@ -19,7 +19,8 @@ header, h1{
     overflow: hidden;
 }
 .hayabusa{
-    position: absolute;
+    height: 70px;
+    position: relative;
     top: 50%;
     left: 0%;
 }
